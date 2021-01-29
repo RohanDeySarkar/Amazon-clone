@@ -1,4 +1,4 @@
-Deployed here ---> https://clone-d227e.web.app/#/
+Deployed here ---> https://rohandeysarkar.github.io/Amazon-clone/#/
 
 ![](https://media-exp1.licdn.com/dms/image/C5622AQEI7mQWENXwpQ/feedshare-shrink_1280/0/1605770354010?e=1614816000&v=beta&t=UZyAyGWrI4r5F936HxFqOyruIlcxIH_ZamOR4am6z5c)
 
