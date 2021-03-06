@@ -1,6 +1,6 @@
 Deployed here ---> https://rohandeysarkar.github.io/Amazon-clone/#/
 
-![](https://media-exp1.licdn.com/dms/image/C5622AQEI7mQWENXwpQ/feedshare-shrink_1280/0/1605770354010?e=1614816000&v=beta&t=UZyAyGWrI4r5F936HxFqOyruIlcxIH_ZamOR4am6z5c)
+![](https://github.com/RohanDeySarkar/Amazon-clone/blob/master/Screenshot%20(95).png?raw=true)
 
 
 ![](https://media-exp1.licdn.com/dms/image/C5622AQEeb8Siup4ozg/feedshare-shrink_1280-alternative/0/1605932861204?e=1610582400&v=beta&t=RIEz4-6A9TlG8Ir_rJEigIBeI6orls5Z6-A1jL6nssA)
